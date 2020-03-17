@@ -1,2 +1,2 @@
-Made in Adobe XD<br>
-github.com/mr-ash
+Made in Adobe XD<br/>
+https://github.com/mr-ash
